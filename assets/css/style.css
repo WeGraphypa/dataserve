@@ -6,7 +6,7 @@ Colors:
 	Body 		: #333
 	Headers 	: #2B2D42
 	Primary 	: #78D64B
-	Dark 		: #15161D ##1E1F29
+	Dark 		: #15161D ##141726
 	Grey 		: #E4E7ED #FBFBFC #8D99AE #B9BABC
 
 Fonts: Montserrat
@@ -454,7 +454,7 @@ textarea.input {
 #top-header {
     padding-top: 10px;
     padding-bottom: 10px;
-    background-color: #1E1F29;
+    background-color: #141726;
 }
 
 .header-links li {
@@ -488,6 +488,7 @@ textarea.input {
 #header {
     padding-top: 15px;
     padding-bottom: 15px;
+    background: #141726;
 }
 
 .header-logo {
@@ -649,7 +650,7 @@ textarea.input {
 
 .cart-dropdown .cart-btns>a:first-child {
     margin-right: -4px;
-    background-color: #1e1f29;
+    background-color: #141726;
 }
 
 .cart-dropdown .cart-btns>a:hover {
@@ -1113,7 +1114,7 @@ textarea.input {
     padding: 10px;
     font-size: 12px;
     line-height: 10px;
-    background: #1e1f29;
+    background: #141726;
     color: #FFF;
     text-transform: uppercase;
     z-index: 10;
@@ -1265,7 +1266,7 @@ textarea.input {
     text-align: center;
     font-size: 10px;
     padding: 0;
-    background: #1e1f29;
+    background: #141726;
     border: none;
     color: #FFF;
 }
@@ -2160,7 +2161,7 @@ textarea.input {
 }
 
 #bottom-footer {
-    background: #1E1F29;
+    background: #141726;
 }
 
 .footer {
